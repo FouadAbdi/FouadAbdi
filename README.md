@@ -103,13 +103,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FouadAbdi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Activity
-
-### 📅 Contribution Calendar
-<div align="center">
-  <img src="https://github.com/FouadAbdi/FouadAbdi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
