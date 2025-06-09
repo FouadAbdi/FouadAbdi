@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **algorithmic trading systems, AI-powered trading bots, and blockchain technology**
-- 🌱 I'm currently learning **advanced quantitative analysis, smart contract development, and machine learning for financial markets**
+- 🌱 I'm currently learning **advanced quantitative analysis and machine learning for financial markets**
 - 🤔 I'm looking for help with **scalable distributed systems, AI model deployment, and high-frequency trading infrastructure**
 - 📫 How to reach me: **fouad.abdi78@gmail.com**
 - ⚡ Fun fact: **I love exploring the intersection of AI, blockchain, and financial markets!**
