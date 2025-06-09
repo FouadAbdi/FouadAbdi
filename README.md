@@ -131,12 +131,10 @@
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Goals
-
-- 🚀 Master cloud-native development and microservices architecture
 - 📊 Advance in quantitative finance and systematic trading strategies  
 - 🤖 Develop next-generation AI trading algorithms with deep learning
 - 🌟 Contribute to open source algorithmic trading and fintech projects
-- 📚 Share knowledge through technical blogs on trading algorithms and AI
+
 ## 💼 Professional Skills & Experience
 
 ### 📊 Algorithmic Trading & Quantitative Finance
