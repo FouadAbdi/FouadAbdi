@@ -122,7 +122,7 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1450](https://github.com/codecrafters-io/build-your-own-x/pull/1450) in [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+1. 💪 Opened PR [#3860](https://github.com/dogecoin/dogecoin/pull/3860) in [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin)
 <!--END_SECTION:activity-->
 
 ## 🎯 Current Goals
