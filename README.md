@@ -149,8 +149,6 @@
 
 ### 🤖 AI, Machine Learning & Financial Analytics
 - **Predictive Modeling**: Build machine learning models for market forecasting, price prediction, and trend analysis
-- **Natural Language Processing**: Implement sentiment analysis for news and social media data to enhance trading decisions
-- **Deep Learning**: Utilize neural networks and LSTM models for time series analysis and market behavior prediction
 - **Data Engineering**: Process and analyze large-scale financial datasets with real-time streaming capabilities
 - **Feature Engineering**: Extract and optimize trading signals from market data, technical indicators, and alternative data sources
 
