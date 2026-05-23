@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Fouad Abdi
+# 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning" alt="Typing SVG" />
@@ -9,15 +9,7 @@
   <img src="https://img.shields.io/github/followers/FouadAbdi?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **algorithmic trading systems, AI-powered trading bots, and blockchain technology**
-- 🌱 I'm currently learning **advanced quantitative analysis and machine learning for financial markets**
-- 🤔 I'm looking for help with **scalable distributed systems, AI model deployment, and high-frequency trading infrastructure**
-- 📫 How to reach me: **fouad.abdi78@gmail.com**
-- ⚡ Fun fact: **I love exploring the intersection of AI, blockchain, and financial markets!**
-
-## 📊 GitHub Statistics
+## 📊 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FouadAbdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,6 +26,7 @@
 
 ## 🛠️ In the Middle East, we are looking for a way to have stable internet access amidst war. 
 
+##
 ## 📫 Let's Connect!
 
 <div align="center">
